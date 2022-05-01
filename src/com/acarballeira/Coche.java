@@ -8,6 +8,6 @@ public class Coche {
 	private String version;
 	private String ano;
 	
-	Coche();
+	public Coche(){}
 	
 }
